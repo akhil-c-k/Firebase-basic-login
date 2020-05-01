@@ -1,0 +1,51 @@
+body 
+ {
+    font-family: 'Roboto', sans-serif;
+ }
+ .form-title
+  {
+      font-weight: 400;
+      text-align: center;
+  }
+.form-container,.logdin-div
+ {
+    width: 20%;
+    padding: 20px;
+    margin: 150px auto 0px auto;
+ }
+
+ .form-container .input-fields
+  {
+    display: block;
+    outline: medium;
+    width: 100%;
+    padding: 10px 0px;
+    margin: 10px 0px;
+  }
+
+  .form-container button 
+   {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 9px 6px;
+    width: 200px;
+    border-radius: 7px;
+    border: 1px solid grey;
+    display: block;
+   }
+   .logdin-div h3,p 
+    {
+        text-align: center;
+        
+    }
+
+   .logout-btn
+    {
+        margin-left: auto;
+    margin-right: auto;
+    padding: 9px 6px;
+    width: 200px;
+    border-radius: 7px;
+    border: 1px solid grey;
+    display: block;
+    }
